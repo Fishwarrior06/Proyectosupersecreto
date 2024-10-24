@@ -1,2 +1,3 @@
 name = input("Escribe tu nombre: ")
-print("Hola{namesito}!")
+last_name = inputtt("Escribe tu apellido: ")
+print("Hola", name,last_name, "!")
